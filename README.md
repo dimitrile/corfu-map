@@ -20,10 +20,13 @@
 -   Δημιούργησα ένα σύστημα αξιολόγησης (rating system) της καταλληλότητας των δρόμων για πεζούς με 5 διαβαθμίσεις (η default επιλογή να είναι "unknown").
 
     ![alt text](https://github.com/dimitrile/corfu-map/blob/master/data/Screenshot_2.png)
-
+    ![alt text](https://github.com/dimitrile/corfu-map/blob/master/data/Screenshot_5.png)
+    
 -   Ανάλογα με την αξιολόγηση του χρήστη, ο κάθε δρόμος να λαμβάνει αντίστοιχο χρώμα. Το καινούριο χαρακτηριστικό αξιολόγησης (property) να καταγράφεται στο GeoJSON αρχείο.
 ![alt text](https://github.com/dimitrile/corfu-map/blob/master/data/Screenshot_4.png)
 
+-   Η τελική παρουσίαση του χάρτη της πόλης της Κέρκυρας με τα βαθμολογημένα μονοπάτια είναι η ακόλουθη.
+![alt text](https://github.com/dimitrile/corfu-map/blob/master/data/Screenshot_6.png)
 
 ## Σύνδεσμοι για την υλοποίηση της Εφαρμογής
 - [HTML, CSS, Javascript Tutorials](https://www.w3schools.com/)
