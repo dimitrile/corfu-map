@@ -26,7 +26,6 @@ function init() {
   });
 	
     map.data.loadGeoJson("data/2013080.geojson");
-
     map.data.setStyle(function(feature) {
         var avg = get_avg(feature.getProperty('ratings'));
         var color = "hsl("+avg*24+",100%,50%)";
